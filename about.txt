@@ -1,6 +1,6 @@
 hello world...
 
-once you visit this "About Us"  page
+once you visit this "Generate Link's"  page
 
 you'll get all of the generated phishing links...
 
