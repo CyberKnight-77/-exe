@@ -1,4 +1,4 @@
-git clone 
+wget 
 
 apt install cloudflared
 
